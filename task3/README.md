@@ -94,4 +94,3 @@ University students collect projects, certificates, and skills in many different
 The research presentation and deliverables were created in Figma.
 **Program:** UNEEQ Interns 2026 – Batch 35  
 **Track:** UI/UX Design
-Read the research report (PDF)](SkillTrail_UX_Research_Problem_Definition.pdf)
