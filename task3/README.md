@@ -88,16 +88,10 @@ University students collect projects, certificates, and skills in many different
 - Seeing their progress in one place could increase motivation.
 - Students want to share their progress with mentors and recruiters.
 
-## Project Deliverables
-
-- Research goals and questions
-- Secondary and competitive research
-- Two proto-personas and Jobs to Be Done
-- Affinity map and insights summary
-- User-centered problem statement
 
 ## Design & Documentation
 
 The research presentation and deliverables were created in Figma.
 **Program:** UNEEQ Interns 2026 – Batch 35  
 **Track:** UI/UX Design
+Read the research report (PDF)](SkillTrail_UX_Research_Problem_Definition.pdf)
