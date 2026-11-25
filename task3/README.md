@@ -2,6 +2,7 @@
 
 **UNEEQ Interns 2026 | Batch 35 | UI/UX Design**  
 **Task 1 of 3**
+Figma : https://www.figma.com/design/q9Fttk9zmRDbDYnq53XVEb/SkillTrail-%E2%80%93-UX-Research---Problem-Definition--Task-1-?node-id=0-1&t=p1UHafSJLeDGeQ4I-1
 
 ## Project Overview
 
